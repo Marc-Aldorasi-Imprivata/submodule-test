@@ -4,3 +4,6 @@
 [submodule "dir1/submodule-test-1"]
 	path = dir1/submodule-test-1
 	url = git@github.com:marc-groundctl/submodule-test-1.git
+[submodule "you/are/in/a/maze/of/twisty/little/passages/all/alike/submodule-test-1"]
+	path = you/are/in/a/maze/of/twisty/little/passages/all/alike/submodule-test-1
+	url = git@github.com:marc-groundctl/submodule-test-1.git
